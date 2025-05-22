@@ -1,6 +1,6 @@
 # HyperledgerLab
 
-**HyperledgerLab** is a clean, focused, and hands-on blockchain learning repository where I’m mastering **Hyperledger Fabric** — the leading enterprise-grade permissioned blockchain platform — through self-study and practice.
+📌 **HyperledgerLab** is a clean, focused, and hands-on blockchain learning repository where I’m mastering **Hyperledger Fabric** — the leading enterprise-grade permissioned blockchain platform — through self-study and practice.
 
 It’s part of the my Masters Thesis / Research, and is designed to offer:
 
