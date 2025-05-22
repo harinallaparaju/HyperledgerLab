@@ -13,6 +13,3 @@ It’s part of the my Masters Thesis / Research, and is designed to offer:
 > Inspired by the official [LFS270](https://training.linuxfoundation.org/training/hyperledger-fabric-design-develop-and-deploy-lfs270/) syllabus — without taking the paid course!
 
 Build in progress.
-
----
-
